@@ -4,13 +4,13 @@
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
-![python](https://user-images.githubusercontent.com/97274572/228128725-f597e703-0277-4448-8786-91f52a0022c6.gif)
+![python](https://user-images.githubusercontent.com/97274572/228128725-f597e703-0277-4448-8786-91f52a0022c6.gif) ![django](https://user-images.githubusercontent.com/97274572/228129163-5136c462-32ba-47c7-9e9a-779e9e37fbb9.jpg) ![Uploading django.jpg…]() ![cicd](https://user-images.githubusercontent.com/97274572/228129260-032a4ffa-fbea-43bf-9234-f26893fe6bca.gif) ![html-css-js](https://user-images.githubusercontent.com/97274572/228129382-174f71c3-5f0a-4b68-ae8f-a8c5e31d6dcc.png)
 
   
-![django](https://user-images.githubusercontent.com/97274572/228129163-5136c462-32ba-47c7-9e9a-779e9e37fbb9.jpg)
-![Uploading django.jpg…]()
-![cicd](https://user-images.githubusercontent.com/97274572/228129260-032a4ffa-fbea-43bf-9234-f26893fe6bca.gif)
-![html-css-js](https://user-images.githubusercontent.com/97274572/228129382-174f71c3-5f0a-4b68-ae8f-a8c5e31d6dcc.png)
+
+
+
+
 
 DevOps
  ![aws](https://user-images.githubusercontent.com/97274572/228129284-85eed962-7577-417b-8f15-410fd70c4108.gif)

@@ -2,7 +2,7 @@
 
 
 
-I am [Kushagra](https://kushagra.aisoot.com/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 1+ years of professional onsite as well as remote working experience. 🎯
+I am [Kushagra](https://kushagra.aisoot.com/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 1+ years of professional remote working experience. 🎯
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 

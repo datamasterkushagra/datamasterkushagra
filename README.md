@@ -9,6 +9,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=1334F7&background=E4FF5300&multiline=true&width=435&lines=Welcome+to+GitHub%2C+where+code+meets;collaboration+and+innovation+thrives!%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
+
 <p float="left">
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />

@@ -60,6 +60,10 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 ### 📫 How to reach me?
 
  - Visit my [Website](https://kushagra.aisoot.com) 🌐
- - Connect with me on [LinkedIn](https://in.linkedin.com/in/kushagra-singh-066231154) 👨🏻‍💻
+ - Connect with me on [LinkedIn](linkedin.com/in/kushagrasingh4) 👨🏻‍💻
+   
  - Follow me on [Instagram](https://www.instagram.com/) ✨
+   ```{r, message=FALSE}
+message("You will not see the message.")
+```
  - Shoot Me an [Email](mailto:kushagrasingh2027@gmail.com) 💌
